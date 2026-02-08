@@ -2,7 +2,7 @@
   "name": "cabby-backend",
   "version": "1.0.0",
   "description": "A minimal dummy backend for Cabby.",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon script.js"
